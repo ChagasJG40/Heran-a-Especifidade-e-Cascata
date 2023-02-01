@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <meta charset="UTF-8>"
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <title>Pagina</title>
+       <link rel="stylesheet" href="estilo.css"/>
+       <style type="text/css">
+        .container {
+            color: red
+        }
+       </style>
+    </head>
+    <body>
+        <h1>Titulo do site</h1>
+        <div class="container" style="color: blue">
+
+            Este é nosso <strong>primeiro</strong> projeto de site.
+        </div>
+    </body>
+
+</html>
