@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    color: orangered;
+}
+
+h1 {
+    border: 5px solid currentColor;
+    
+}
